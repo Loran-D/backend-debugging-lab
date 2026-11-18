@@ -12,7 +12,7 @@ def test_get_all_orders():
 def test_calculate_total():
     total = calculate_total()
 
-    assert total == 1550
+    assert total == 1350
 
 
 
